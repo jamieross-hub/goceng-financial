@@ -11,7 +11,7 @@ Website ini dibuat untuk **pemakaian pribadi** sebagai pencatat keuangan harian 
 Jika Anda ingin mengembangkan atau menjalankan project ini di komputer Anda sendiri, silakan ikuti langkah-langkah berikut:
 
 ### 1. Prasyarat
-Pastikan Anda sudah menginstall:
+Pastikan Anda sudah menginstall: 
 - [Node.js](https://nodejs.org/) (versi 18 ke atas)
 - [Git](https://git-scm.com/)
 
